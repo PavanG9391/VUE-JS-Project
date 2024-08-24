@@ -1,7 +1,7 @@
 <script setup>
 import {ref,onMounted} from 'vue';
 
-const name= ref("Pawan!!!")
+const name= ref("Hello!!!")
 const status = ref(true);
 const tasks = ref(['Task One','Task Two','Task Three'])
 const link = ref('https://www.google.com')
